@@ -1,0 +1,17 @@
+# Java
+target/
+*.class
+*.log
+
+# Node
+node_modules/
+dist/
+
+# DotNet
+bin/
+obj/
+
+# IDE
+.idea/
+.vscode/
+*.iml
